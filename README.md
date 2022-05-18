@@ -21,3 +21,5 @@ POST /player/{playerid}/balance/update
 Last 10 Transactions
 POST /admin/player/transactions
 • Invalid username should be seen as a bad request (HTTP 400)
+
+The application is used in build h2 database
